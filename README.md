@@ -5,30 +5,6 @@
 
 Для **допуска** к экзамену необходимо подготовить отчет по каждой лабораторной и ДЗ. Отчеты по разделам содержат ваши результаты лабораторных работ и ДЗ. Фиксируйте этапы вашей работы, ваши вариации гиперпараметров и моделей, выводы к чему это приводит. На защиту приносите сразу текущую версию отчета.
 
-Отчеты отправлять на почту ``aikanev@bmstu.ru``
-
-[Примеры](/report/) отчетов
-
-## Лекции
-* [Записи лекций](https://vk.com/video/playlist/-211704031_1) VK Видео
-* [Записи лекций](https://www.youtube.com/watch?v=RkuP6N9Kk5k&list=PLLELLTvDgUQ_d9eUj_3XVpAdGByuU37kT&index=3) Youtube
-
-1. [Лекция №1. Введение в DL](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_1_DL.pdf)
-2. [Лекция №2. Сверточная нейросеть](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_2_CNN.pdf)
-3. [Лекция №3. Регуляризация и аугментация](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_3_Data_Augmentation.pdf)
-4. [Лекция №4. Перенос обучения](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_4_Transfer_Learning.pdf)
-5. [Лекция №5. Автоэнкодеры](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_5_Autoencoders.pdf)
-7. [Лекция №6. Сегментация, Object Detection, LiDAR](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_LiDAR.pdf)
-6. [Лекция №7. Рекуррентные нейросети](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_RNN.pdf)
-8. [Лекция №8. Трансформеры](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_8_Transformer.pdf)
-
-## Дополнительные лекции
-- [Обработка естественного языка](https://github.com/iu5git/Deep-learning/blob/main/lectures/Lection_NLP.pdf)
-
-## Рубежный контроль
-1. Рубежный контроль №1 (1-4 лекции)
-2. Рубежный контроль №2 (5-8 лекции)
-
 ## Лабораторные работы
 
 Выражаем благодарность Ишкову Денису за подготовку лабораторных работ
@@ -64,11 +40,6 @@
 - [Телеграм-бот](https://github.com/iu5git/Deep-learning/blob/main/homework2/task.md)
 - Обучить модель yolov8-segment и преобразовать ее в файл ONNX: [yolov8+onnx.ipynb](/yolov8_segment/yolov8%2Bonnx.ipynb). Приложение на React для onnx YOLO [react.md](/yolov8_segment/react.md)
 
-## 中文
-1. [实验 №1](/notebooks/实验一.ipynb). 神经网络
-2. [作业的实验和应用](/homework/homework1-中文.md)
-3. [使用cvat.ai标记数据集](cvat/中文.md)
-4. 训练 yolov8实例分割模型并将其转换为 ONNX 文件：[yolov8+onnx.ipynb](/yolov8_segment/yolov8%2Bonnx.ipynb)。为yolov8-segment创建React应用的中文教程：[react.md](/yolov8_segment/react.md)
 
 ## Вопросы к экзамену
 1.	Опишите алгоритм обучения с учителем.

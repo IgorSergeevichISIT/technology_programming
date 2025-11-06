@@ -9,14 +9,14 @@
 
 Выражаем благодарность Ишкову Денису за подготовку лабораторных работ
 
-1. [Лабораторная работа №1](https://github.com/iu5git/Deep-learning/blob/main/notebooks/Lab1.ipynb). Введение в DL
-2. [Лабораторная работа №2](https://github.com/iu5git/Deep-learning/blob/main/notebooks/Lab2.ipynb). Сверточная нейросеть
-3. [Лабораторная работа №3](https://github.com/iu5git/Deep-learning/blob/main/notebooks/Lab3.ipynb). Регуляризация и аугментация
-4. [Лабораторная работа №4](https://github.com/iu5git/Deep-learning/blob/main/notebooks/Lab4.ipynb). Перенос обучения
-5. [Лабораторная работа №5](https://github.com/iu5git/Deep-learning/blob/main/notebooks/Lab5.ipynb). Автоэнкодеры
-6. [Лабораторная работа №6](https://github.com/iu5git/Deep-learning/blob/main/notebooks/tree_classification.ipynb). Классификация LiDAR
-7. [Лабораторная работа №7](https://github.com/iu5git/Deep-learning/blob/main/notebooks/Forest_sat.ipynb). Спутниковые снимки
-8. [Лабораторная работа №8](https://github.com/iu5git/Deep-learning/blob/main/notebooks/LSTM.ipynb). Рекуррентные нейросети
+1. [Лабораторная работа №1](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/Lab1.ipynb). Введение в DL
+2. [Лабораторная работа №2](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/Lab2.ipynb). Сверточная нейросеть
+3. [Лабораторная работа №3](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/Lab3.ipynb). Регуляризация и аугментация
+4. [Лабораторная работа №4](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/Lab4.ipynb). Перенос обучения
+5. [Лабораторная работа №5](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/Lab5.ipynb). Автоэнкодеры
+6. [Лабораторная работа №6](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/tree_classification.ipynb). Классификация LiDAR
+7. [Лабораторная работа №7](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/Forest_sat.ipynb). Спутниковые снимки
+8. [Лабораторная работа №8](https://github.com/igorsergeevichisit/technology_programming/blob/main/notebooks/LSTM.ipynb). Рекуррентные нейросети
 
 ## Домашнее задание
 
